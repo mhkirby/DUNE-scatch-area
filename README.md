@@ -1,4 +1,9 @@
 # DUNE-scatch-area
+
+## Summary
+This repository only exists as an example for best practices of copyright and licensing of DUNE specific software. Please refer to the full policy and recommendation document with the DUNE docdb for a complete set of instructions.
+
+## Copyright and Licensing
 Copyright © 2023 FERMI NATIONAL ACCELERATOR LABORATORY
 
 This repository, and all software contained within, is licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
